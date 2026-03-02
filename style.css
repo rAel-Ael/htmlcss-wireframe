@@ -1,11 +1,24 @@
 body {
     width: 512px;
     border: 2px ;
+    margin: auto;
     background-color: blanchedalmond;
 }
 .bordo {
-    border: 2px solid red;
-    padding: 15px solid red;
+    width: 80%;
+    border: 2px solid rgb(243, 215, 137);
+    padding: 20px;
+    margin: 15px;
+    margin-left: 30px;
+    font-family: 'Brush Script MT', cursive;
 
-
+}
+.testa {
+    border-bottom: 2px solid rgb(86, 92, 0);
+    margin-bottom: 15px;
+    font-family: 'Brush Script MT', cursive;
+}
+.under {
+    border-top: 2px solid rgb(86, 92, 0);
+    margin-top: 15px 0;
 }
