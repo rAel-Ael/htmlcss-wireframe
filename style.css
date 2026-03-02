@@ -1,0 +1,11 @@
+body {
+    width: 512px;
+    border: 2px ;
+    background-color: blanchedalmond;
+}
+.bordo {
+    border: 2px solid red;
+    padding: 15px solid red;
+
+
+}
